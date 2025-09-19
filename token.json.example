@@ -1,0 +1,9 @@
+{
+  "token": "your_oauth_access_token_here",
+  "refresh_token": "your_oauth_refresh_token_here",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "client_id": "your_oauth_client_id_here",
+  "client_secret": "your_oauth_client_secret_here",
+  "scopes": ["https://www.googleapis.com/auth/gmail.readonly"],
+  "expiry": "2024-01-15T14:30:00Z"
+}
